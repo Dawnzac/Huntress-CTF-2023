@@ -2,4 +2,4 @@
 Writeups from the CTF..
 
 
-Didn't get to complete all but here's some of it :)
+Didn't get to complete all, but here's some of it :)
